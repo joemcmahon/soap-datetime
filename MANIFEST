@@ -5,5 +5,7 @@ Todo
 Changes
 lib/SOAP/DateTime.pm
 t/001_load.t
+t/pod.t
+t/pod-coverage.t
 Makefile.PL
 META.yml                                 Module meta-data (added by MakeMaker)
